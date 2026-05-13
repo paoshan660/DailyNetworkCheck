@@ -13,6 +13,10 @@
 - 集成飞书 Webhook，实现毫秒级故障主动告警
 ## 📊 成果展示
 ![巡检图表预览](./daily_report.png)
+## 运行效果
+![巡检报告](web_report.png)
+![飞书告警截图](<img width="659" height="265" alt="image" src="https://github.com/user-attachments/assets/ed397bb3-1669-4e28-96dc-7fd426cdb565" />
+)
 
 ## 🛠️ 技术栈
 - Python 3.13
