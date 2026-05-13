@@ -12,7 +12,7 @@
 - V2.0 更新： 引入 HTTP 状态码监控。能够识别 Ping 无法发现的业务层故障（如 503 服务不可用、404 页面丢失），并记录完整的业务响应时间。
 - 集成飞书 Webhook，实现毫秒级故障主动告警
 ## 📊 成果展示
-![巡检图表预览](./daily_report.png)
+![](web_report.png)
 ## 运行效果
 ![巡检报告](web_report.png)
 ![飞书告警截图](<img width="659" height="265" alt="image" src="https://github.com/user-attachments/assets/ed397bb3-1669-4e28-96dc-7fd426cdb565" />
