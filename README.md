@@ -21,3 +21,4 @@
 ## 🛠️ 技术栈
 - Python 3.13
 - 库依赖: ping3, pandas, matplotlib
+遇到的挑战：解决了飞书消息格式报错问题
