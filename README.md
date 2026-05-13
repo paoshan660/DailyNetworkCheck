@@ -15,8 +15,8 @@
 ![](web_report.png)
 ## 运行效果
 ![巡检报告](web_report.png)
-![飞书告警截图](<img width="659" height="265" alt="image" src="https://github.com/user-attachments/assets/ed397bb3-1669-4e28-96dc-7fd426cdb565" />
-)
+<img width="682" height="317" alt="屏幕截图 2026-05-13 150156" src="https://github.com/user-attachments/assets/5927abb0-f22c-4d0b-b410-95923d6fdd0f" />
+
 
 ## 🛠️ 技术栈
 - Python 3.13
